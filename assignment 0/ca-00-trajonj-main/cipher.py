@@ -6,8 +6,8 @@ __copyright__ = "Copyright 2022 by Shishir Shah, Quantitative Imaging Laboratory
 
 '''
 Please fill in information below.
-Github ID:
-Name:
+Github ID: trajonj
+Name: Trajon Johnson
 '''
 
 
